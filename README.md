@@ -1,4 +1,4 @@
-# 📚 Student Depression Analysis using SQL Server and Tableau
+# 📚 Student Depression Analysis using Microsoft SQL Server and Tableau
 
 This project aims to analyze factors related to student depression using SQL Server for data preprocessing and Tableau for visualization.
 
